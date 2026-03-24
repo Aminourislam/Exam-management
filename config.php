@@ -1,9 +1,9 @@
 <?php
 // Database config
-define('DB_HOST', 'sql307.infinityfree.com');
-define('DB_USER', 'if0_39931409');
-define('DB_PASS', 'MoTtgPkWeiE'); 
-define('DB_NAME', 'if0_39931409_exam_portal');
+define('DB_HOST', '');
+define('DB_USER', '');
+define('DB_PASS', ''); 
+define('DB_NAME', '');
 
 // Start session
 if (session_status() == PHP_SESSION_NONE) {
